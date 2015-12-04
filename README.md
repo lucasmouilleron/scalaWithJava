@@ -1,6 +1,8 @@
 scalaWithJava
 =============
 
+![Screenshot](http://grabs.lucasmouilleron.com/Screen%20Shot%202015-12-04%20at%2013.25.54.png)
+
 Compile
 -------
 - `mkdir classes`
